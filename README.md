@@ -1,4 +1,4 @@
-# paper-reading
+# nlp-paper-reading
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -8,8 +8,8 @@
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/Armour/paper-reading/blob/master/.github/CONTRIBUTING.md)
+See [CONTRIBUTING.md](https://github.com/Armour/nlp-paper-reading/blob/master/.github/CONTRIBUTING.md)
 
 ## License
 
-[MIT License](https://github.com/Armour/paper-reading/blob/master/LICENSE)
+[MIT License](https://github.com/Armour/nlp-paper-reading/blob/master/LICENSE)

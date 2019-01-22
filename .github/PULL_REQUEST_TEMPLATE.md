@@ -1,6 +1,6 @@
 <!--
 Please make sure to read the Pull Request Guidelines:
-https://github.com/Armour/paper-reading/blob/master/.github/CONTRIBUTING.md#submitting-a-pull-request
+https://github.com/Armour/nlp-paper-reading/blob/master/.github/CONTRIBUTING.md#submitting-a-pull-request
 -->
 
 <!-- PULL REQUEST TEMPLATE -->
